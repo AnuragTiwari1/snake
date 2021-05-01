@@ -1,0 +1,11 @@
+const SCREEN_WIDTH = 600;
+const SCREEN_HEIGHT = 420;
+
+const SNAKE_INITIAL_X = 100;
+const SNAKE_INITIAL_Y = 100;
+const GAME_LOOP = 60;
+
+const TEXT_SIZE = 32;
+const BLOCK_SIZE = 20;
+
+const UPDATE_FRAME = 30
